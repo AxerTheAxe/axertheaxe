@@ -8,7 +8,8 @@ Developing simple FOSS software for Linux. I mostly work with C++ and Rust.
 
 ## GitHub is awful
 
-Remeber, GitHub profits from the separation and deaths of families with their continued support and contracts with the I.C.E
+Remeber, GitHub profits from the separation and deaths of families with their continued support and contracts with the I.C.E.
+
 Let your voices be heard.
 
 ## Contact
